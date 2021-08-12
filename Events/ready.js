@@ -2,7 +2,7 @@ module.exports = async(client) => {
 
     client.user.setPresence({
         activity: {
-            name: "CapMine v3 || Bot By 9e_Docteur"
+            name: "DMU FR BOT // By 9e_Docteur"
         }
     })
 };
